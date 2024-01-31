@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DoshaFlow</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: white;
+            padding: 1em;
+            text-align: center;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>DoshaFlow</h1>
+        <p>Your Wellness Journey Begins Here</p>
+    </header>
+
+    <main>
+        <h2>Welcome to DoshaFlow</h2>
+        <p>Discover balance and well-being through our personalized DoshaFlow experiences.</p>
+        <!-- Add more content and features as needed -->
+    </main>
+
+    <footer>
+        <p>&copy; 2024 DoshaFlow. All rights reserved.</p>
+    </footer>
+
+</body>
+
+</html>
